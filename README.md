@@ -69,13 +69,13 @@ email: wanyq@gench.edu.cn
 | --------------- | -------------------------- | ------------------------------------------------------------ | ---- | -------- | -------- | -------- |
 | 1               | 绪论 + Python概述          | 课程概述；人工智能概述([ppt](https://github.com/wanyongquan/IntroductionToAI/blob/main/lecture01/lecture01-%20%E7%BB%AA%E8%AE%BA.pdf))；Python简介([ppt](https://github.com/wanyongquan/IntroductionToAI/blob/main/lecture01/lecture01-Python%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85.pdf))； [人工智能免费在线学习资源](https://github.com/wanyongquan/IntroductionToAI/blob/main/lecture01/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E5%85%8D%E8%B4%B9%E5%9C%A8%E7%BA%BF%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90.md) |      | ch1      | proj0    |          |
 | 2               | 知识表示+Python基础        | 一阶谓词逻辑、产生式([ppt](https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture02/lec02-%E7%9F%A5%E8%AF%86%E8%A1%A8%E7%A4%BA-%E6%96%B0.pdf)) ； Python语法、过程控制语句([ppt](https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture02/lec02-1%20Python%E7%A8%8B%E5%BA%8F%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.pdf)) 实战练习1([pdf](https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture02/%E5%AE%9E%E6%88%98%E7%BB%83%E4%B9%A01-Python%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.pdf))        |      | 2.1-2.3  |          |          |
-| 3               | 知识表示+python进阶        | 产生式、语义网络； 函数、面向对象编程                        |      | 2.3-2.5  |          | proj0    |
-| 4               | 状态空间法                 | 科学计算库的使用:numpy, pandas, matplotlib, scikit-learn     |      | 3,1      |          |          |
-| 5 | 盲目式搜索+Python实现      | 盲目式搜索-BFS，DFS                                          |      | 3.2      | proj1    |          |
+| 3        | 知识表示+python进阶        | 状态空间法； 数据类型、                    |      | 3.1 |          | proj0    |
+| 4        | 盲目式搜索                 | 盲目式搜索-BFS +Python实现；函数、面向对象编程；      |      | 3.2      |          |          |
+| 5 	| 盲目式搜索+Python实现      | 盲目式搜索-DFS   ；搜索的Python实现；         面向对象；                         |      | 3.2      | proj1    |          |
 | 6               | 启发式搜索+Python实现      | 启发式搜索                                                   |      | 3.3      |          |          |
-| 7               | 机器学习                   | 机器学习概述； 期中测验；                                    |      | 5.1-5.2  |          | proj1    |
-| 8               | 线性回归 + Python实现      |                                                              |      | 5.4.3    | proj2    |          |
-| 9 （国庆节调休）  | KNN分类 + Python实现类     |                                                              |      | 5.4.1    |          |          |
+| 7               | 机器学习                   | 机器学习概述；  科学计算库的使用:numpy, pandas, matplotlib             |      | 5.1-5.2  |          | proj1    |
+| 8               | 回归      |   线性回归 + Python实现    ;scikit-learn                                      |      | 5.4.3    | proj2    |          |
+| 9 （国庆节调休）  | 分类    |   期中测验；   KNN分类 + Python实现，                                                   |      | 5.4.1    |          |          |
 | 10（国庆节调休）  | 朴素贝叶斯分类+ Python实现 |                                                              |      | 5.4.1    |          | proj2    |
 | 11              | 决策树分类+ Python实现     |                                                              |      | 5.4.1    | proj3    |          |
 | 12              | 聚类+ Python实现           |                                                              |      | 5.4.2    |          |          |
