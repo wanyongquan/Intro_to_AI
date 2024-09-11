@@ -47,7 +47,7 @@ email: wanyq@gench.edu.cn
 1.   《人工智能：一种现代的方法（第三版）》，Stuart J.Russell, Peter Norvig著，清华大学出版社， 2013年11月.  [pdf](https://pan.baidu.com/s/1sAAFHAUx7plXPYMm2-TgIg)  提取码: 7222
 2.   人工智能简史（第二版）》, 尼克著，人民邮电出版社，2021年1月   
 3.   Python程序设计案例教程（慕课版），明日科技著，人民邮电出版社，2022年11月  
-
+4. 简明Python教程 [pdf]
 其他的材料，例如教材、视频和其他资料，可能以电子版提供。 
 
 
@@ -65,29 +65,163 @@ email: wanyq@gench.edu.cn
 
 ## 课程进度计划
 
-| 第几周         | 次         | 主题                     | 讲义                                                       | 教材章节 | 作业发布 | 作业截止 |
-| --------------- | -------------------------- | ------------------------------------------------------------ | ---- | -------- | -------- | -------- |
-| 第一周            | 1               | 绪论 + Python概述          | 课程概述；人工智能概述([ppt](https://github.com/wanyongquan/IntroductionToAI/blob/main/lecture01/lecture01-%20%E7%BB%AA%E8%AE%BA.pdf))；Python简介([ppt](https://github.com/wanyongquan/IntroductionToAI/blob/main/lecture01/lecture01-Python%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85.pdf))； [人工智能免费在线学习资源](https://github.com/wanyongquan/IntroductionToAI/blob/main/lecture01/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E5%85%8D%E8%B4%B9%E5%9C%A8%E7%BA%BF%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90.md) | ch1      | proj0    |          |
-| 第一周            | 2               | 知识表示+Python基础        | 一阶谓词逻辑、产生式([ppt](https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture02/lec02-%E7%9F%A5%E8%AF%86%E8%A1%A8%E7%A4%BA-%E6%96%B0.pdf)) ； Python语法、过程控制语句([ppt](https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture02/lec02-1%20Python%E7%A8%8B%E5%BA%8F%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.pdf)) 实战练习1([pdf](https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture02/%E5%AE%9E%E6%88%98%E7%BB%83%E4%B9%A01-Python%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.pdf))        | 2.1-2.3  |          |          |
-| 第二周    | 3        | 知识表示+python进阶        | 状态空间法[pdf](https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture03/lec03-state%20space.pdf)； 序列数据类型 [pdf](https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture03/lec03-2%20%E5%BA%8F%E5%88%97%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.pdf)、实战练习2[pdf](https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture03/%E5%AE%9E%E6%88%98%E7%BB%83%E4%B9%A02-%E5%BA%8F%E5%88%97%E7%B1%BB%E5%9E%8B.pdf) | 3.1 |          | proj0    |
-| 第二周     | 4        | 盲目式搜索                 | 盲目式搜索-BFS +Python实现[pdf](https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture04/lec04%20uninformed%20search-BFS.pdf)；函数[pdf](https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture04/lec04-2%E5%87%BD%E6%95%B0.pdf)； 实战练习3[pdf](slides/lecture04/实战练习3-函数.pdf) | 3.2      |          |          |
-| 第三周 | 5 	| 盲目式搜索+Python实现      | 盲目式搜索-DFS  的Python实现；  面向对象编程；                 | 3.2      | proj1    |          |
-| 第三周           | 6               | 启发式搜索+Python实现      | 启发式搜索                                                   | 3.3      |          |          |
-| 第四周           | 7               | 机器学习                   | 机器学习概述；  科学计算库的使用:numpy, pandas, matplotlib             | 5.1-5.2  |          | proj1    |
-| 第四周           | 8               | 回归      |   线性回归 + Python实现    ;scikit-learn                                      | 5.4.3    | proj2    |          |
-| 第五周 | 9 （国庆节调休）  | 分类    |   期中测验；   KNN分类 + Python实现，                                                   | 5.4.1    |          |          |
-| 第五周 | 10（国庆节调休）  | 朴素贝叶斯分类+ Python实现 |                                                              | 5.4.1    |          | proj2    |
-| 第六周          | 11              | 决策树分类+ Python实现     |                                                              | 5.4.1    | proj3    |          |
-| 第六周          | 12              | 聚类+ Python实现           |                                                              | 5.4.2    |          |          |
-| 第七周           | 13              | 深度学习                   | 人工神经网络                                                 | ch 6     |          | proj3    |
-| 第七周          | 14              |                            | CNN                                                          | ch 7     |          |          |
-| 第八周           | 15              | 人工智能中的伦理           | 伦理报告                                                     | /        |          |          |
-| 第八周          | 16              |                            | 大作业汇报                                                   | /        |          |          |
+<table>
+  <thead>
+    <tr>
+      <th>第几周</th>
+      <th>次</th>
+      <th>主题</th>
+      <th>讲义</th>
+      <th>教材章节</th>
+      <th>作业发布</th>
+      <th>作业截止</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">第1周</td>
+      <td> 1</td>
+      <td>绪论 + Python概述</td>
+      <td>课程概述；人工智能概述(<a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture01/lecture01-%20%E7%BB%AA%E8%AE%BA.pdf">pdf</a>)；Python开发环境安装(<a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture01/lecture01-Python%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85.pdf">pdf</a>)； <a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture01/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E5%85%8D%E8%B4%B9%E5%9C%A8%E7%BA%BF%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90.md">人工智能免费在线学习资源</a></td>
+      <td>ch1</td>
+      <td>proj0</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>知识表示+Python基础   <img src="https://raw.githubusercontent.com/wanyongquan/Intro_to_AI/main/images/ch2-knowledge%20representation.jpg" alt="知识表示" />  <img src="https://raw.githubusercontent.com/wanyongquan/Intro_to_AI/main/images/ch2-Python%20fundamental.jpg" alt="Python语法基础" /></td>
+      <td>谓词逻辑、产生式 <a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture02/lec02-%E7%9F%A5%E8%AF%86%E8%A1%A8%E7%A4%BA-%E6%96%B0.pdf">pdf</a>; Python语法、过程控制语句 <a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture02/lec02-1%20Python%E7%A8%8B%E5%BA%8F%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.pdf">pdf</a>;  实战练习1：Python基础语法<a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture02/%E5%AE%9E%E6%88%98%E7%BB%83%E4%B9%A01-Python%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.pdf">pdf</a></td>
+      <td>2.1-2.3</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td rowspan="2">第2周</td>
+      <td>3</td>
+      <td>状态空间法+python进阶 <img src="https://github.com/wanyongquan/Intro_to_AI/blob/main/images/ch3-statespace_uninformed_search.jpg?raw=true" alt="状态空间法" /></td>
+      <td>状态空间法<a href="https://github.com/wanyongquan/Intro_to_AI/blob/ffeb0d574198f5dc9db9059ed85817701aabcfce/slides/lecture03/lec03-state%20space.pdf">pdf</a>；序列数据类<a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture03/lec03-2%20%E5%BA%8F%E5%88%97%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.pdf">pdf</a>; 实战练习2-序列类型<a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture03/%E5%AE%9E%E6%88%98%E7%BB%83%E4%B9%A02-%E5%BA%8F%E5%88%97%E7%B1%BB%E5%9E%8B.pdf">pdf</a></td>
+      <td>3.1</td>
+      <td> </td>
+      <td>proj0</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>盲目式搜索+Python实现</td>
+      <td>盲目式搜索-BFS+Python实现<a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture04/lec04%20uninformed%20search-BFS.pdf">pdf</a>；函数 <a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture04/lec04-2%E5%87%BD%E6%95%B0.pdf">pdf</a> ; 实战练习3：函数<a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture04/%E5%AE%9E%E6%88%98%E7%BB%83%E4%B9%A03-%E5%87%BD%E6%95%B0.pdf">pdf</a></td>
+      <td>3.2</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td rowspan="2">第3周</td>
+      <td>5</td>
+      <td>盲目式搜索+Python实现</td>
+      <td>盲目式搜索-DFS+Python实现</td>
+      <td>3.2</td>
+      <td>proj1</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>启发式搜索+Python实现</td>
+      <td>启发式搜索</td>
+      <td>3.3</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+    	<td rowspan="2">第4周</td>
+      <td>7</td>
+      <td>机器学习</td>
+      <td>机器学习概述；科学计算库的使用:numpy, pandas, matplotlib；期中测验；</td>
+      <td>5.1-5.2</td>
+      <td> </td>
+      <td>proj1</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>线性回归 + Python实现</td>
+      <td>线性回归的Python实现;   scikit-learn</td>
+      <td>5.4.3</td>
+      <td>proj2</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td rowspan="2">第5周 （国庆节调休）</td>	
+      <td>9</td>
+      <td>KNN分类 + Python实现类</td>
+      <td>KNN分类的Python实现;</td>
+      <td>5.4.1</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>朴素贝叶斯分类+ Python实现</td>
+      <td> </td>
+      <td>5.4.1</td>
+      <td> </td>
+      <td>proj2</td>
+    </tr>
+    <tr>
+    	<td rowspan="2">第6周</td>
+      <td>11</td>
+      <td>决策树分类+ Python实现</td>
+      <td> </td>
+      <td>5.4.1</td>
+      <td>proj3</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>聚类+ Python实现</td>
+      <td> </td>
+      <td>5.4.2</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+    	<td rowspan="2">第7周</td>
+      <td>13</td>
+      <td>深度学习</td>
+      <td>人工神经网络</td>
+      <td>ch 6</td>
+      <td> </td>
+      <td>proj3</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td> </td>
+      <td>CNN</td>
+      <td>ch 7</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+    	<td rowspan="2">第8周</td>
+      <td>15</td>
+      <td>人工智能中的伦理</td>
+      <td>伦理报告</td>
+      <td>/</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td> </td>
+      <td>大作业汇报</td>
+      <td>/</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## 作业和实验
 
 -   每项作业都包含书面和编程部分。
--   书面和编程作业都将以电子方式提交。提交说明将与每个作业一起发布在 云班课上。
+-   书面和编程作业都将以电子方式提交。[提交说明](https://github.com/wanyongquan/Intro_to_AI/blob/main/submit_instructions.md)将与每个作业一起发布在 云班课上。
 -   编程作业要求使用 Python 编写。
 
 ## 评分标准
