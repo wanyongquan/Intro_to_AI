@@ -107,7 +107,7 @@ email: wanyq@gench.edu.cn
     <tr>
       <td>4</td>
       <td>盲目式搜索+Python实现</td>
-      <td>盲目式搜索-BFS+Python实现<a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture04/lec04%20uninformed%20search-BFS.pdf">pdf</a>；函数 <a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture04/lec04-2%E5%87%BD%E6%95%B0.pdf">pdf</a> ; 实战练习3：函数<a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture04/%E5%AE%9E%E6%88%98%E7%BB%83%E4%B9%A03-%E5%87%BD%E6%95%B0.pdf">pdf</a></td>
+      <td>盲目式搜索-BFS+Python实现<a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture04/lec04%20uninformed%20search-BFS.pdf">pdf</a>；函数 <a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture04/lec04-2%E5%87%BD%E6%95%B0.pdf">pdf</a> ; 实战练习3：函数<a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture04/%E5%AE%9E%E6%88%98%E7%BB%83%E4%B9%A03-%E5%87%BD%E6%95%B0.pdf">pdf</a> <a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture04/lec04-03-OO.pdf">面向对象编程</a> <a href="https://www.cs.princeton.edu/courses/archive/spring21/cos226/assignments/8puzzle/specification.php">八数码问题参考</a></td>
       <td>3.2</td>
       <td> </td>
       <td> </td>
