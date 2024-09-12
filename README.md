@@ -99,7 +99,7 @@ email: wanyq@gench.edu.cn
       <td rowspan="2">第2周</td>
       <td>3</td>
       <td>状态空间法+python进阶 <img src="https://github.com/wanyongquan/Intro_to_AI/blob/main/images/ch3-statespace_uninformed_search.jpg?raw=true" alt="状态空间法" /></td>
-      <td>状态空间法<a href="https://github.com/wanyongquan/Intro_to_AI/blob/ffeb0d574198f5dc9db9059ed85817701aabcfce/slides/lecture03/lec03-state%20space.pdf">pdf</a>；序列数据类<a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture03/lec03-2%20%E5%BA%8F%E5%88%97%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.pdf">pdf</a>; 实战练习2-序列类型<a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture03/%E5%AE%9E%E6%88%98%E7%BB%83%E4%B9%A02-%E5%BA%8F%E5%88%97%E7%B1%BB%E5%9E%8B.pdf">pdf</a></td>
+      <td>状态空间法<a href="https://github.com/wanyongquan/Intro_to_AI/blob/ffeb0d574198f5dc9db9059ed85817701aabcfce/slides/lecture03/lec03-state%20space.pdf">pdf</a>；序列数据类型<a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture03/lec03-2%20%E5%BA%8F%E5%88%97%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.pdf">pdf</a>; <a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/code/lecture03/%E5%BA%8F%E5%88%97%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.ipynb">样例代码</a>; 实战练习2-序列类型<a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture03/%E5%AE%9E%E6%88%98%E7%BB%83%E4%B9%A02-%E5%BA%8F%E5%88%97%E7%B1%BB%E5%9E%8B.pdf">pdf</a></td>
       <td>3.1</td>
       <td> </td>
       <td>proj0</td>
