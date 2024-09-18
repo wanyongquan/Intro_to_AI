@@ -116,7 +116,7 @@ email: wanyq@gench.edu.cn
       <td rowspan="2">第3周</td>
       <td>5</td>
       <td>盲目式搜索+Python实现</td>
-      <td>盲目式搜索-DFS+Python实现</td>
+      <td>盲目式搜索-DFS+Python实现 <a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture05/lecture05-uninformed%20search-DFS.pdf">pdf</a> </td>
       <td>3.2</td>
       <td>proj1</td>
       <td> </td>
@@ -124,7 +124,7 @@ email: wanyq@gench.edu.cn
     <tr>
       <td>6</td>
       <td>启发式搜索+Python实现</td>
-      <td>启发式搜索</td>
+      <td>启发式搜索<a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture06/lecture06%20informed%20search.pdf">pdf</a> </td>
       <td>3.3</td>
       <td> </td>
       <td> </td>
