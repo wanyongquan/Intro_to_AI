@@ -124,8 +124,8 @@ email: wanyq@gench.edu.cn
     <tr>
       <td>6</td>
       <td>启发式搜索+Python实现</td>
-      <td>启发式搜索<a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture06/lecture06%20informed%20search.pdf">pdf</a> </td>
-      <td>3.3</td>
+      <td>启发式搜索<a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture06/lecture06%20informed%20search.pdf">pdf</a>  numpy、pandas、Matplotlib ：<a href="https://pan.baidu.com/s/1QlorfjXjkP5AIe6Gh79-BQ">pdf（提取码: qw9q )</a>  <a href="https://pan.baidu.com/s/1NO5Jyrb9oibGUA5QSB6Skg">视频（ 提取码: pjex）</a> </td>
+      <td>3.3.1, 3.3.4</td>
       <td> </td>
       <td> </td>
     </tr>
