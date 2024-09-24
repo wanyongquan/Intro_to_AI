@@ -133,7 +133,7 @@ email: wanyq@gench.edu.cn
     	<td rowspan="2">第4周</td>
       <td>7</td>
       <td>机器学习</td>
-      <td>机器学习概述；科学计算库的使用:numpy, pandas, matplotlib；期中测验；</td>
+      <td>机器学习概述 <a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture07/lec07-ML.pdf">pdf</a>)；科学计算库的使用:numpy <a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture07/lec07-numpy.pdf">pdf</a>), pandas <a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture07/lec07-pandas.pdf"></a>, 期中测验；</td>
       <td>5.1-5.2</td>
       <td> </td>
       <td>proj1</td>
@@ -141,16 +141,16 @@ email: wanyq@gench.edu.cn
     <tr>
       <td>8</td>
       <td>线性回归 + Python实现</td>
-      <td>线性回归的Python实现;   scikit-learn</td>
+      <td>线性回归的Python实现 <a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture08/lec08-regression.pdf">pdf</a>;  matplotlib <a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture08/lec08-Matplotlib.pdf">pdf</a>； scikit-learn <a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture08/scikit-learn.pdf">pdf</a></td>
       <td>5.4.3</td>
       <td>proj2</td>
       <td> </td>
     </tr>
     <tr>
-      <td rowspan="2">第5周 （国庆节调休）</td>	
+      <td rowspan="2">第5周 （国庆节调休, 9.29补）</td>	
       <td>9</td>
       <td>KNN分类 + Python实现类</td>
-      <td>KNN分类的Python实现;</td>
+      <td>KNN分类的Python实现 <a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture09/lec09-KNN.pdf">pdf</a>;</td>
       <td>5.4.1</td>
       <td> </td>
       <td> </td>
