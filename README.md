@@ -149,8 +149,9 @@ email: wanyq@gench.edu.cn
     <tr>
       <td rowspan="2">第5周 （国庆节调休, 9.29补）</td>	
       <td>9</td>
-      <td>KNN分类 + Python实现类</td>
-      <td>KNN分类的Python实现 <a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture09/lec09-KNN.pdf">pdf</a>;</td>
+      <td>KNN分类 + Python实现KNN</td>
+      <td>KNN分类的Python实现 <a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture09/lec09-KNN.pdf">pdf</a>; <a href
+        ="https://github.com/wanyongquan/Intro_to_AI/blob/main/code/lecture09/KNN_Iris.ipynb">code</a> </td>
       <td>5.4.1</td>
       <td> </td>
       <td> </td>
@@ -158,7 +159,7 @@ email: wanyq@gench.edu.cn
     <tr>
       <td>10</td>
       <td>朴素贝叶斯分类+ Python实现</td>
-      <td> </td>
+      <td> 朴素贝叶斯分类 <a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/slides/lecture10/lec10-bayes.pdf">[pdf]</a>+ Python实现 <a href="https://github.com/wanyongquan/Intro_to_AI/blob/main/code/lecture10/iris-bayes.ipynb">[code]</a> </td>
       <td>5.4.1</td>
       <td> </td>
       <td>proj2</td>
